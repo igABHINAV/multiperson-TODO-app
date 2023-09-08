@@ -26,9 +26,9 @@ To run the TODO app locally, follow these installation steps:
 ### Installation Steps
 
 1. Clone the project repository.
-2. Install project dependencies.
-3. Set up environment variables by creating a `.env` file.
-4. Start the application.
+2. Install project dependencies (npm i).
+3. Set up environment variables by creating a `.env`  file (here it is already created  `config/config.env`) .
+4. Start the application (node index.js) .
 
 ## Configuration
 
