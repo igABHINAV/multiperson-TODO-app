@@ -111,10 +111,4 @@ To use the TODO app, follow these steps:
 
 - **authenticateToken**: Verify JWT tokens in request headers to authenticate users for protected routes.
 
-## Contributing
 
-We welcome contributions to the TODO app! If you'd like to contribute, please follow our guidelines for submitting pull requests and reporting issues.
-
-## License
-
-The TODO app is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
